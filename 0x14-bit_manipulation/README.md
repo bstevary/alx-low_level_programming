@@ -1,0 +1,1 @@
+ansc bit mainipulation
